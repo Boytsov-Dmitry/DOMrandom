@@ -1,0 +1,10 @@
+.play-cage-full {
+    background-image: url(https://github.com/netology-code/ahj-homeworks/raw/AHJ-50/dom/pic/goblin.png);
+    background-size: 100% 100%;
+}
+
+.play-cage {
+    border: 3px solid black;
+    height: 100px;
+    width: 100px
+};
