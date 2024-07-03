@@ -16,7 +16,6 @@ setInterval(function () {
 
     const random = getRandom(cellList.length);
 
-
     cellList.forEach((element) => {
         element.classList.remove('play-cage-full');
     })
